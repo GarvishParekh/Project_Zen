@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Character_Swap.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/House_Setup.unity
+    path: Assets/Scenes/Project_Zen.unity
     guid: 288966a4e3f050b4e915214b97f23fa5
   m_configObjects: {}
